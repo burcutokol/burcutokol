@@ -6,10 +6,10 @@
 </h1>
 
 
- 🔭 I'm computer engineering student in Medeniyet University . <br>
- 👨‍💻 I'm trying to learn JS right now. I am interested in mobile programming and I want to work in this field in the future. <br> <br> 
- I love watching TV series, reading books and drawing. <br> <br>
- I'm full time learner :) 💜
+ 🔭 I'm computer engineering student in **Medeniyet University** . <br>
+ 👨‍💻 I'm trying to learn JS right now. I am interested in **mobile programming** and I want to work in this field in the future. <br> <br> 
+ 📗 I love watching TV series, reading books and drawing. <br> <br>
+ 👩🏽‍🦱 I'm full time learner 🤩💜
 
 
 <p align="center">
