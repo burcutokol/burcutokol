@@ -6,7 +6,7 @@
 </h1>
 
 
- 🔭 I'm computer engineering student in **Medeniyet University** . <br>
+ 🔭 I'm computer engineer . <br>
  📗 I love watching TV series, reading books and drawing. <br> <br>
  👩🏽‍🦱 I'm full time learner 🤩💜
 
