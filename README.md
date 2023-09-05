@@ -7,6 +7,7 @@
 
 
  🔭 I'm computer engineer . <br>
+ 🖥️ I develop web projects with Asp.Net and TypeScript nowadays. <br>
  📗 I love watching TV series, reading books and drawing. <br> <br>
  👩🏽‍🦱 I'm full time learner 🤩💜
 
